@@ -10,7 +10,7 @@
 
 ### Boolean bits
 
-- Basados en los (boolean bits)[https://hackaday.io/project/21660-daves-boolean-bits] pero de menor tamaño, y polarizados.
+- Basados en los [boolean bits](https://hackaday.io/project/21660-daves-boolean-bits) pero de menor tamaño, y polarizados.
 
 ### Qtpy camera
 
@@ -19,6 +19,10 @@
 ### Qtpy mini-motus
 
 - Iniciar modificando una tarjeta LoRa para manejar ~144MHz, compatible con Motus. Coordinar pruebas en prototipo.
+
+### Pedales para guitarra
+
+- Iniciar con clones, e ir probando técnicas de fuse, op-amps nuevos o disponibles localmente, digital-pots, microcontroladoras con CircuitPython para midi, etc.
 
 ### Amplificador de tubos
 
@@ -67,4 +71,10 @@
 
 ### Grabar petroglifo de Cousteau
 
+- Grabar, editar para impresión 3d, publicar, regalar a SINAC
+- Traducir a SVG, publicar extractos para uso por artistas
 
+### Grabar [farallón de cañas](https://vozdeguanacaste.com/el-farallon-de-canas-la-pared-del-sol-corobici/)
+
+- Grabar, editar para impresión 3d, publicar, regalar a SINAC
+- Traducir a SVG, publicar extractos para uso por artistas
